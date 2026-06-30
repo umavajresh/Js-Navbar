@@ -12,7 +12,7 @@ body {
 
 nav.navbar {
     display: flex;
-    background-color: #059669;
+    background-color: #333;
     height: 100px;
     width: 100%;
     justify-content: space-between;
@@ -68,7 +68,7 @@ nav.navbar {
         top: 0;
         right: -500px;
 
-        background-color: #059669;
+        background-color: #333;
         height: 100%;
         width: 300px;
         transition: all ease 1s;
